@@ -1,0 +1,6 @@
+# dsh-quick-commands bundle patch: one host row serving the tool and the read
+# route; the client half rides the same package's ./client export.
+- insert:
+    - id: quick-commands
+      name: '@dsh-external/dsh-quick-commands'
+      config: {}
